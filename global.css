@@ -46,14 +46,11 @@ img { padding: 4px;
 a { color: #503947;
 	font-weight: bold;
 	text-decoration: none;
-	border-bottom: 1px solid #898989;
 	padding-bottom: 1px; }
 
 a:visited { color: #503947; }
 
-a:hover, a:focus, a:active { background-color: white;
-				color: #ff009d;
-				border-bottom-color: #096521; }
+a:hover, a:focus, a:active { color: #ff009d; }
 
 div#wrapper { width: 900px; 
 		margin-left: auto;
